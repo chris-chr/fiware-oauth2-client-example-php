@@ -1,6 +1,6 @@
 <?php
 	//application specific variables
-	$clientId = "1689";
+	$clientId = "";
 	$domain = "localhost";
 
 	//redirect url for the user to authenticate 

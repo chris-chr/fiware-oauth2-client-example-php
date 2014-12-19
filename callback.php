@@ -4,8 +4,8 @@
 	
 	//application specific declarations
 	$domain = "localhost";
-	$clientId = "1689";
-	$clientSecret = "e169e0b219c04a435eeb267722d55447046f479751b3e17f71fb1bdc27770326f960e77368960fcb4a52d8f6df85400e25dfaec08643f1b002103323f85c27f0";
+	$clientId = "";
+	$clientSecret = "";
 
 	//access token url
 	$url = 'https://account.lab.fi-ware.org/oauth2/token';
